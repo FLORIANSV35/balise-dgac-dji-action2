@@ -14,7 +14,7 @@
 //   YY = year, MM = month, XX = commit number within the month (restarts at 01 every month)
 // To be updated on every commit/release.
 // =============================================================
-#define FW_VERSION "V26.10.01"
+#define FW_VERSION "V26.10.02"
 
 // =============================================================
 // OPTIONS — 1 = enabled, 0 = disabled (reflash after changing)
